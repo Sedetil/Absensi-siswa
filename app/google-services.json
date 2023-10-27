@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75377433971",
+    "project_id": "absensi-siswa-5ee0e",
+    "storage_bucket": "absensi-siswa-5ee0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75377433971:android:46ee156ac9f3a70b3f3906",
+        "android_client_info": {
+          "package_name": "com.telkom.absensisiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7QG1cOQO4b1eYjp5heknPCECiepE2_AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
