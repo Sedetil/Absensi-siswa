@@ -29,8 +29,3 @@ Jika Anda memiliki pertanyaan atau masukan, silakan hubungi kami melalui salah s
 - WhatsApp: 6285158862314
 
 Terima kasih telah menggunakan Sistem Absensi Siswa!
-
-![Instagram](https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM)
-![GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
-![TikTok](https://play-lh.googleusercontent.com/Ui_-OW6UJI147ySDX9guWWDiCPSq1vtxoC-xG17BU2FpU0Fi6qkWwuLdpddmT9fqrA)
-![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png)
