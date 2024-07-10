@@ -23,9 +23,9 @@ Anda dapat berkontribusi dalam pengembangan aplikasi ini dengan mengirimkan *pul
 ## Hubungi Kami
 
 Jika Anda memiliki pertanyaan atau masukan, silakan hubungi kami melalui salah satu platform berikut:
-- Instagram: [Link Instagram](https://www.instagram.com/nama_akun_instagram)
-- GitHub: [Link GitHub](https://github.com/nama_pengguna_github)
-- TikTok: [Link TikTok](https://www.tiktok.com/@nama_pengguna_tiktok)
+- Instagram: [Link Instagram](https://www.instagram.com/alwannabil_priyanto)
+- GitHub: [Link GitHub](https://github.com/Sedetil)
+- TikTok: [Link TikTok](https://www.tiktok.com/@alwan3413x)
 - WhatsApp: 6285158862314
 
 Terima kasih telah menggunakan Sistem Absensi Siswa!
